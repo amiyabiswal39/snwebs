@@ -1,2 +1,2 @@
 # snwebs
-sample website
+sample website for testing and research
